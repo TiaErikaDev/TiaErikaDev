@@ -1,7 +1,7 @@
 ## Oiii eu sou a Erika Pimentel!
 
 - 🚀 Atualmente em transição de carreira da Educação para a área da Tecnologia.
-- 💎 Estudando Ciências de Dados. 
+- 💎 Estudando Ciências de Dados. [MBA - Data Science] [ADA - Python & Dados] 
 - 💬 Conheço as linguagens Java e Python.
 - 📫 Contate-me no email: erikamayarapimentel@gmail.com
 - 👊 Pronouns: Ela/dela
