@@ -1,11 +1,11 @@
-## Oiii eu sou a Erika Pimentel!
+## Oiii eu sou a Érika Mayara Pimentel!
 
 - 🚀 Atualmente em transição de carreira da Educação para a área da Tecnologia.
-- 💎 Estudando Ciências de Dados. [MBA - Data Science] [ADA - Python & Dados] 
-- 💬 Conheço as linguagens Java e Python.
+- 💎 Estudando Ciências de Dados. [MBA FAMESP/FLAI - Data Science] [CURSO ADA - Python & Dados] 
+- 💬 Conheço as linguagens Python para análise de dados.
 - 📫 Contate-me no email: erikamayarapimentel@gmail.com
 - 👊 Pronouns: Ela/dela
-- 🤣 Fun fact: Meus alunos me chamam de tia Erika.
+- 🤣 Fun fact: Meus alunos me chamam de tia Érika.
 
 <div align="center">
   <a href="https://github.com/TiaErikaDev">
