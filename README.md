@@ -2,7 +2,8 @@
 
 - 🚀 Atualmente em transição de carreira da Educação para a área da Tecnologia.
 - 💎 Estudando Ciências de Dados. [MBA FAMESP/FLAI - Data Science] [CURSO ADA - Python & Dados] 
-- 💬 Conheço a linguagem Python para análise de dados e SQL para banco de dados.
+- 💎 Estudando Análise e Desenvolvimento de Sistemas. [Estácio - ADS - Tecnólogo]
+- 💬 Conheço a linguagem Python para análise de dados, SQL para banco de dados e crio dashboard no Power BI.
 - 📫 Contate-me no email: erikamayarapimentel@gmail.com
 - 👊 Pronouns: Ela/dela
 - 🤣 Fun fact: Meus alunos me chamam de tia Érika.
