@@ -1,12 +1,14 @@
 ## Oiii eu sou a Érika Mayara Pimentel!
 
-- 🚀 Atualmente em transição de carreira da Educação para a área da Tecnologia.
-- 💎 Estudando Ciências de Dados. [MBA FAMESP/FLAI - Data Science] [CURSO ADA - Python & Dados] 
-- 💎 Estudando Análise e Desenvolvimento de Sistemas. [Estácio - ADS - Tecnólogo]
-- 💬 Conheço a linguagem Python para análise de dados, SQL para banco de dados e crio dashboard no Power BI.
+- 🚀 Atualmente em transição de carreira da Educação para a área da Tecnologia
+- 💎 MBA em Ciências de Dados. [MBA FAMESP/FLAI - Data Science]
+- 📖 Tenho mais de 2000 horas de estudos entre cursos e bootcamps
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas. [Estácio - ADS - Tecnólogo]
+- 👩‍💻  Estagiária no Grupo OLX [Engenharia de Dados / Engenharia de Software]
+- 💬 Experiência em Python e SQL
 - 📫 Contate-me no email: erikamayarapimentel@gmail.com
 - 👊 Pronouns: Ela/dela
-- 🤣 Fun fact: Meus alunos me chamam de tia Érika.
+- 🤣 Fun fact: Meus alunos me chamam de tia Érika
 
 <div align="center">
   <a href="https://github.com/TiaErikaDev">
